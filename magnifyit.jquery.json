@@ -1,0 +1,32 @@
+{
+    "name": "magnifyit",
+    "version": "1.0",
+    "title": "image zooming plugin with a magnifier lens effect ",
+    "author":{
+    	"name" : "mona alzeer",
+        "email" : "munaalzeer@live.com"
+	},
+    "description": "jquery plugin for image zooming.",
+    "main": "jquery.magnifyIt.js",
+    
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/malzeer"
+    },
+    "keywords": [
+        "zoom",
+        "image",
+        "mangifier",
+        "effect",
+        "lens"
+    ],
+   "licenses": [
+    {
+       "type": "AGPL-3.0",
+        "url": "http://opensource.org/licenses/AGPL-3.0"
+    }
+],
+    "dependencies": {
+       "jquery": ">=1.2"
+    }
+}
