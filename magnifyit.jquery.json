@@ -26,7 +26,8 @@
         "url": "http://opensource.org/licenses/AGPL-3.0"
     }
 ],
+"homepage": "https://github.com/malzeer/magnifyIt/",
     "dependencies": {
-       "jquery": ">=1.2"
+        "jquery": ">=1.7"
     }
 }
